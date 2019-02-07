@@ -1,0 +1,14 @@
+/projects/codeready-demo/demo-webapi/bin/Debug/netcoreapp2.1/demo-webapi.deps.json
+/projects/codeready-demo/demo-webapi/bin/Debug/netcoreapp2.1/demo-webapi.runtimeconfig.json
+/projects/codeready-demo/demo-webapi/bin/Debug/netcoreapp2.1/demo-webapi.runtimeconfig.dev.json
+/projects/codeready-demo/demo-webapi/bin/Debug/netcoreapp2.1/demo-webapi.dll
+/projects/codeready-demo/demo-webapi/bin/Debug/netcoreapp2.1/demo-webapi.pdb
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.csprojAssemblyReference.cache
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.csproj.CoreCompileInputs.cache
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.RazorAssemblyInfo.cache
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.RazorAssemblyInfo.cs
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.AssemblyInfoInputs.cache
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.AssemblyInfo.cs
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.RazorTargetAssemblyInfo.cache
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.dll
+/projects/codeready-demo/demo-webapi/obj/Debug/netcoreapp2.1/demo-webapi.pdb
